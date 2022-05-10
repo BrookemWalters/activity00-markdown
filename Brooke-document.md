@@ -1,4 +1,4 @@
-> You must unlearn what you have learned. 
+> You must unlearn what you have learned.
 
 Quote from Yoda, The Empire Strikes Back Activity
 
