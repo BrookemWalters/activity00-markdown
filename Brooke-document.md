@@ -10,8 +10,7 @@ This document is a simple example to:
 1. Demonstrate what a .pdf document looks like when viewed in GitHub, and
 2. Provide you with an opportunity to test your Markdown skills!
 ## Some generic image
-![Scatterplot comprised of red, yellow, and black points with a hidden
-question mark](5333.jpg)
+![graph](5333.jpg)
 
 
 >   Figure 1: Scatterplot comprised of red, yellow, and black points with a hidden question mark
